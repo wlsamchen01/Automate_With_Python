@@ -1,0 +1,7 @@
+# ignore .ipynb_checkpoints
+
+.ipynb_checkpoints/
+
+# ignore mp4 files
+
+*.mp4
